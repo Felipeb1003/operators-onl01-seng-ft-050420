@@ -11,7 +11,7 @@ def unsafe?(speed)
 end
 unsafe?(30)
 unsafe?(50)
-binding.pry
+
 
 def not_safe?(speed)
 	
